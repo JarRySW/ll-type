@@ -1,0 +1,22 @@
+{
+  "name": "ll-type",
+  "version": "1.0.0",
+  "description": "distinguish type",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JarRySW/ll-type.git"
+  },
+  "keywords": [
+    "typeof"
+  ],
+  "author": "llwcy8801",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JarRySW/ll-type/issues"
+  },
+  "homepage": "https://github.com/JarRySW/ll-type#readme"
+}
