@@ -4,5 +4,5 @@
 
 ### Install
 ```
-npm install jv-has
+npm install ll-type
 ```
