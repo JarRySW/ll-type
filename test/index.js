@@ -30,6 +30,9 @@ describe('#ll-type', function() {
         it('llType(function () {}) should return function', function () {
             assert.equal(llType(function () {}), 'function')
         })
+        it('llType(class Car {}) should return function', function () {
+            assert.equal(llType(class Car {}), 'function')
+        })
         it('llType(new Date()) should return date', function () {
             assert.equal(llType(new Date()), 'date')
         })
